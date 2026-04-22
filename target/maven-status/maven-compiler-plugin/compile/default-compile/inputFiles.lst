@@ -1,2 +1,5 @@
-/workspaces/hello-web-swing/src/main/java/com/example/hellowebswing/HelloController.java
 /workspaces/hello-web-swing/src/main/java/com/example/hellowebswing/HelloWebSwingApplication.java
+/workspaces/hello-web-swing/src/main/java/com/example/hellowebswing/HighScoreController.java
+/workspaces/hello-web-swing/src/main/java/com/example/hellowebswing/HighScoreEntry.java
+/workspaces/hello-web-swing/src/main/java/com/example/hellowebswing/HighScoreRequest.java
+/workspaces/hello-web-swing/src/main/java/com/example/hellowebswing/HighScoreService.java

@@ -1,2 +1,5 @@
-com/example/hellowebswing/HelloController.class
+com/example/hellowebswing/HighScoreRequest.class
+com/example/hellowebswing/HighScoreController.class
+com/example/hellowebswing/HighScoreService.class
+com/example/hellowebswing/HighScoreEntry.class
 com/example/hellowebswing/HelloWebSwingApplication.class
